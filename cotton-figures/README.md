@@ -1,6 +1,7 @@
 # Cotton figures
 
-The numbered SVGs are the current educational figures. Regenerate them with:
+The numbered SVGs are the editable source figures, with JPG exports alongside
+them for easy download. Regenerate the SVGs with:
 
 ```sh
 python cotton-figures/generate_figures.py
