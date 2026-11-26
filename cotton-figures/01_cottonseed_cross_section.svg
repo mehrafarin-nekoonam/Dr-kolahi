@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1050" viewBox="0 0 1600 1050" role="img">
+<title>Mature cottonseed: transverse schematic</title>
+<desc>Seed-coat layers and embryo structures; schematic, not to scale.</desc>
+<defs>
+          <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+            <path d="M0,0 L10,5 L0,10 z" fill="#657987"/>
+          </marker>
+          <style>
+            text { font-family: Arial, Helvetica, sans-serif; fill: #263746; }
+            .title { font-size: 34px; font-weight: 700; }
+            .subtitle { font-size: 19px; fill: #657987; }
+            .label { font-size: 19px; }
+            .small { font-size: 15px; fill: #657987; }
+            .boxlabel { font-size: 19px; font-weight: 700; }
+          </style>
+        </defs>
+<rect width="100%" height="100%" fill="white"/>
+<text class="title" x="800.0" y="58" text-anchor="middle">Mature cottonseed: transverse schematic</text>
+<text class="subtitle" x="800.0" y="91" text-anchor="middle">Seed-coat layers and embryo structures; schematic, not to scale.</text>
+<ellipse cx="800" cy="535" rx="290" ry="205" fill="#d3bc94" stroke="#604d3b" stroke-width="3"/>
+<ellipse cx="800" cy="535" rx="270" ry="185" fill="#825c42" stroke="#604d3b" stroke-width="2"/>
+<ellipse cx="800" cy="535" rx="250" ry="165" fill="#e5d7b8" stroke="#604d3b" stroke-width="2"/>
+<ellipse cx="800" cy="535" rx="230" ry="145" fill="#c49b67" stroke="#604d3b" stroke-width="2"/>
+<ellipse cx="800" cy="535" rx="210" ry="125" fill="#7d5941" stroke="#604d3b" stroke-width="2"/>
+<ellipse cx="800" cy="535" rx="190" ry="107" fill="#dbe5d6" stroke="#718a72" stroke-width="2"/>
+<path d="M650 500 C690 460 730 490 760 470 C795 448 830 480 865 462 C900 455 925 485 950 505 C925 530 900 550 870 540 C830 560 800 535 770 555 C735 560 700 535 670 550 Z" fill="none" stroke="#7f9b7e" stroke-width="7"/>
+<circle cx="700" cy="490" r="8" fill="#45362f"/>
+<circle cx="740" cy="530" r="8" fill="#45362f"/>
+<circle cx="780" cy="485" r="8" fill="#45362f"/>
+<circle cx="820" cy="525" r="8" fill="#45362f"/>
+<circle cx="865" cy="490" r="8" fill="#45362f"/>
+<circle cx="900" cy="520" r="8" fill="#45362f"/>
+<circle cx="755" cy="565" r="8" fill="#45362f"/>
+<circle cx="850" cy="560" r="8" fill="#45362f"/>
+<path d="M570 326 l-8 -25 M570 744 l8 25" stroke="#b49b71" stroke-width="3"/>
+<path d="M608 326 l-8 -25 M608 744 l8 25" stroke="#b49b71" stroke-width="3"/>
+<path d="M646 326 l-8 -25 M646 744 l8 25" stroke="#b49b71" stroke-width="3"/>
+<path d="M684 326 l-8 -25 M684 744 l8 25" stroke="#b49b71" stroke-width="3"/>
+<path d="M722 326 l-8 -25 M722 744 l8 25" stroke="#b49b71" stroke-width="3"/>
+<path d="M760 326 l-8 -25 M760 744 l8 25" stroke="#b49b71" stroke-width="3"/>
+<path d="M798 326 l-8 -25 M798 744 l8 25" stroke="#b49b71" stroke-width="3"/>
+<path d="M836 326 l-8 -25 M836 744 l8 25" stroke="#b49b71" stroke-width="3"/>
+<path d="M874 326 l-8 -25 M874 744 l8 25" stroke="#b49b71" stroke-width="3"/>
+<path d="M912 326 l-8 -25 M912 744 l8 25" stroke="#b49b71" stroke-width="3"/>
+<path d="M950 326 l-8 -25 M950 744 l8 25" stroke="#b49b71" stroke-width="3"/>
+<path d="M988 326 l-8 -25 M988 744 l8 25" stroke="#b49b71" stroke-width="3"/>
+<path d="M1026 326 l-8 -25 M1026 744 l8 25" stroke="#b49b71" stroke-width="3"/>
+<text x="55" y="335" text-anchor="start" font-size="19" font-weight="normal" fill="#263746">1  Lint fibers (epidermal trichomes)</text>
+<line x1="440" y1="329" x2="570" y2="310" stroke="#657987" stroke-width="2"/>
+<circle cx="570" cy="310" r="4" fill="#657987"/>
+<text x="55" y="405" text-anchor="start" font-size="19" font-weight="normal" fill="#263746">2  Outer epidermis</text>
+<line x1="440" y1="399" x2="557" y2="425" stroke="#657987" stroke-width="2"/>
+<circle cx="557" cy="425" r="4" fill="#657987"/>
+<text x="55" y="475" text-anchor="start" font-size="19" font-weight="normal" fill="#263746">3  Outer pigment layer</text>
+<line x1="440" y1="469" x2="550" y2="470" stroke="#657987" stroke-width="2"/>
+<circle cx="550" cy="470" r="4" fill="#657987"/>
+<text x="55" y="545" text-anchor="start" font-size="19" font-weight="normal" fill="#263746">4  Colorless layer</text>
+<line x1="440" y1="539" x2="565" y2="505" stroke="#657987" stroke-width="2"/>
+<circle cx="565" cy="505" r="4" fill="#657987"/>
+<text x="55" y="615" text-anchor="start" font-size="19" font-weight="normal" fill="#263746">5  Palisade (Malpighian) layer</text>
+<line x1="440" y1="609" x2="585" y2="540" stroke="#657987" stroke-width="2"/>
+<circle cx="585" cy="540" r="4" fill="#657987"/>
+<text x="1120" y="415" text-anchor="start" font-size="19" font-weight="normal" fill="#263746">6  Inner pigment layer</text>
+<line x1="1105" y1="409" x2="1005" y2="530" stroke="#657987" stroke-width="2"/>
+<circle cx="1005" cy="530" r="4" fill="#657987"/>
+<text x="1120" y="495" text-anchor="start" font-size="19" font-weight="normal" fill="#263746">7  Cotyledonary embryo</text>
+<line x1="1105" y1="489" x2="975" y2="565" stroke="#657987" stroke-width="2"/>
+<circle cx="975" cy="565" r="4" fill="#657987"/>
+<text x="1120" y="575" text-anchor="start" font-size="19" font-weight="normal" fill="#263746">8  Gossypol glands in cotyledons</text>
+<line x1="1105" y1="569" x2="865" y2="490" stroke="#657987" stroke-width="2"/>
+<circle cx="865" cy="490" r="4" fill="#657987"/>
+<text x="800" y="290" text-anchor="middle" font-size="17" font-weight="normal" fill="#263746">Chalazal pore</text>
+<line x1="800" y1="300" x2="800" y2="330" stroke="#657987" stroke-width="2"/>
+<text x="800" y="795" text-anchor="middle" font-size="17" font-weight="normal" fill="#263746">Micropyle (radicle emergence)</text>
+<line x1="800" y1="780" x2="800" y2="740" stroke="#657987" stroke-width="2"/>
+<text x="800" y="890" text-anchor="middle" font-size="17" font-weight="normal" fill="#657987">Seed-coat layers are simplified; the diagram is not to scale.</text>
+<a href="https://www.cotton.org/foundation/upload/C-Seed-CH1.pdf" target="_blank" rel="noopener noreferrer">
+<text x="800" y="1015" text-anchor="middle" font-size="13" font-weight="normal" fill="#657987">Source: Cotton, Inc., Anatomy and Morphology of the Cotton Seed and Seedling, Ch. 1.</text>
+</a>
+</svg>

@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img">
+<title>Cottonseed storage-cell structures</title>
+<desc>Schematic comparison; dimensions vary and are not shown to scale.</desc>
+<defs>
+          <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+            <path d="M0,0 L10,5 L0,10 z" fill="#657987"/>
+          </marker>
+          <style>
+            text { font-family: Arial, Helvetica, sans-serif; fill: #263746; }
+            .title { font-size: 34px; font-weight: 700; }
+            .subtitle { font-size: 19px; fill: #657987; }
+            .label { font-size: 19px; }
+            .small { font-size: 15px; fill: #657987; }
+            .boxlabel { font-size: 19px; font-weight: 700; }
+          </style>
+        </defs>
+<rect width="100%" height="100%" fill="white"/>
+<text class="title" x="800.0" y="58" text-anchor="middle">Cottonseed storage-cell structures</text>
+<text class="subtitle" x="800.0" y="91" text-anchor="middle">Schematic comparison; dimensions vary and are not shown to scale.</text>
+<line x1="800" y1="145" x2="800" y2="790" stroke="#d5dde0" stroke-width="3"/>
+<text x="400" y="165" text-anchor="middle" font-size="26" font-weight="bold" fill="#263746">Oleosome (oil body)</text>
+<text x="1200" y="165" text-anchor="middle" font-size="26" font-weight="bold" fill="#263746">Protein storage body</text>
+<circle cx="405" cy="465" r="185" fill="#f4e3a1" stroke="#d4ae42" stroke-width="20"/>
+<circle cx="405" cy="465" r="169" fill="#f7eab9" stroke="#f8f3df" stroke-width="2"/>
+<text x="405" y="475" text-anchor="middle" font-size="24" font-weight="bold" fill="#263746">Triacylglycerol</text>
+<text x="405" y="508" text-anchor="middle" font-size="22" font-weight="bold" fill="#263746">(TAG) core</text>
+<line x1="587.0" y1="465.0" x2="568.0" y2="465.0" stroke="#fff9df" stroke-width="3"/>
+<circle cx="587.0" cy="465.0" r="6" fill="#4b8db8"/>
+<line x1="580.8" y1="512.1" x2="562.4" y2="507.2" stroke="#fff9df" stroke-width="3"/>
+<circle cx="580.8" cy="512.1" r="6" fill="#4b8db8"/>
+<line x1="562.6" y1="556.0" x2="546.2" y2="546.5" stroke="#fff9df" stroke-width="3"/>
+<circle cx="562.6" cy="556.0" r="6" fill="#4b8db8"/>
+<line x1="533.7" y1="593.7" x2="520.3" y2="580.3" stroke="#fff9df" stroke-width="3"/>
+<circle cx="533.7" cy="593.7" r="6" fill="#4b8db8"/>
+<line x1="496.0" y1="622.6" x2="486.5" y2="606.2" stroke="#fff9df" stroke-width="3"/>
+<circle cx="496.0" cy="622.6" r="6" fill="#4b8db8"/>
+<line x1="452.1" y1="640.8" x2="447.2" y2="622.4" stroke="#fff9df" stroke-width="3"/>
+<circle cx="452.1" cy="640.8" r="6" fill="#4b8db8"/>
+<line x1="405.0" y1="647.0" x2="405.0" y2="628.0" stroke="#fff9df" stroke-width="3"/>
+<circle cx="405.0" cy="647.0" r="6" fill="#4b8db8"/>
+<line x1="357.9" y1="640.8" x2="362.8" y2="622.4" stroke="#fff9df" stroke-width="3"/>
+<circle cx="357.9" cy="640.8" r="6" fill="#4b8db8"/>
+<line x1="314.0" y1="622.6" x2="323.5" y2="606.2" stroke="#fff9df" stroke-width="3"/>
+<circle cx="314.0" cy="622.6" r="6" fill="#4b8db8"/>
+<line x1="276.3" y1="593.7" x2="289.7" y2="580.3" stroke="#fff9df" stroke-width="3"/>
+<circle cx="276.3" cy="593.7" r="6" fill="#4b8db8"/>
+<line x1="247.4" y1="556.0" x2="263.8" y2="546.5" stroke="#fff9df" stroke-width="3"/>
+<circle cx="247.4" cy="556.0" r="6" fill="#4b8db8"/>
+<line x1="229.2" y1="512.1" x2="247.6" y2="507.2" stroke="#fff9df" stroke-width="3"/>
+<circle cx="229.2" cy="512.1" r="6" fill="#4b8db8"/>
+<line x1="223.0" y1="465.0" x2="242.0" y2="465.0" stroke="#fff9df" stroke-width="3"/>
+<circle cx="223.0" cy="465.0" r="6" fill="#4b8db8"/>
+<line x1="229.2" y1="417.9" x2="247.6" y2="422.8" stroke="#fff9df" stroke-width="3"/>
+<circle cx="229.2" cy="417.9" r="6" fill="#4b8db8"/>
+<line x1="247.4" y1="374.0" x2="263.8" y2="383.5" stroke="#fff9df" stroke-width="3"/>
+<circle cx="247.4" cy="374.0" r="6" fill="#4b8db8"/>
+<line x1="276.3" y1="336.3" x2="289.7" y2="349.7" stroke="#fff9df" stroke-width="3"/>
+<circle cx="276.3" cy="336.3" r="6" fill="#4b8db8"/>
+<line x1="314.0" y1="307.4" x2="323.5" y2="323.8" stroke="#fff9df" stroke-width="3"/>
+<circle cx="314.0" cy="307.4" r="6" fill="#4b8db8"/>
+<line x1="357.9" y1="289.2" x2="362.8" y2="307.6" stroke="#fff9df" stroke-width="3"/>
+<circle cx="357.9" cy="289.2" r="6" fill="#4b8db8"/>
+<line x1="405.0" y1="283.0" x2="405.0" y2="302.0" stroke="#fff9df" stroke-width="3"/>
+<circle cx="405.0" cy="283.0" r="6" fill="#4b8db8"/>
+<line x1="452.1" y1="289.2" x2="447.2" y2="307.6" stroke="#fff9df" stroke-width="3"/>
+<circle cx="452.1" cy="289.2" r="6" fill="#4b8db8"/>
+<line x1="496.0" y1="307.4" x2="486.5" y2="323.8" stroke="#fff9df" stroke-width="3"/>
+<circle cx="496.0" cy="307.4" r="6" fill="#4b8db8"/>
+<line x1="533.7" y1="336.3" x2="520.3" y2="349.7" stroke="#fff9df" stroke-width="3"/>
+<circle cx="533.7" cy="336.3" r="6" fill="#4b8db8"/>
+<line x1="562.6" y1="374.0" x2="546.2" y2="383.5" stroke="#fff9df" stroke-width="3"/>
+<circle cx="562.6" cy="374.0" r="6" fill="#4b8db8"/>
+<line x1="580.8" y1="417.9" x2="562.4" y2="422.8" stroke="#fff9df" stroke-width="3"/>
+<circle cx="580.8" cy="417.9" r="6" fill="#4b8db8"/>
+<path d="M330 290 L318 330 L330 370 L342 330 Z" fill="none" stroke="#27617d" stroke-width="7"/>
+<path d="M405 290 L393 330 L405 370 L417 330 Z" fill="none" stroke="#27617d" stroke-width="7"/>
+<path d="M480 290 L468 330 L480 370 L492 330 Z" fill="none" stroke="#27617d" stroke-width="7"/>
+<text x="405" y="700" text-anchor="middle" font-size="16" font-weight="normal" fill="#263746">Single phospholipid monolayer; oleosin hydrophobic hairpins</text>
+<text x="405" y="728" text-anchor="middle" font-size="16" font-weight="normal" fill="#263746">anchor in TAG; hydrophilic domains face cytosol.</text>
+<line x1="210" y1="285" x2="330" y2="330" stroke="#657987" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="90" y="275" text-anchor="start" font-size="16" font-weight="normal" fill="#263746">Oleosin</text>
+<line x1="585" y1="330" x2="555" y2="355" stroke="#657987" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="590" y="315" text-anchor="start" font-size="16" font-weight="normal" fill="#263746">Monolayer</text>
+<circle cx="1195" cy="465" r="195" fill="#dce8e1" stroke="#88a99a" stroke-width="12"/>
+<circle cx="1195" cy="465" r="175" fill="#d2e0d7" stroke="#b8cbc1" stroke-width="3"/>
+<text x="1195" y="455" text-anchor="middle" font-size="24" font-weight="bold" fill="#263746">Storage-protein</text>
+<text x="1195" y="490" text-anchor="middle" font-size="24" font-weight="bold" fill="#263746">matrix</text>
+<line x1="1390" y1="285" x2="1360" y2="330" stroke="#657987" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="1390" y="270" text-anchor="middle" font-size="16" font-weight="normal" fill="#263746">Single bounding membrane</text>
+<a href="https://doi.org/10.1104/pp.101.1.267" target="_blank" rel="noopener noreferrer">
+<text x="800" y="790" text-anchor="middle" font-size="14" font-weight="normal" fill="#657987">Oleosome: Tzen et al., Plant Physiol. 101, 267–276 (1993), doi:10.1104/pp.101.1.267.</text>
+</a>
+<a href="https://doi.org/10.1017/S096025850000297X" target="_blank" rel="noopener noreferrer">
+<text x="800" y="818" text-anchor="middle" font-size="14" font-weight="normal" fill="#657987">Cotton protein-storage vacuoles: Seed Sci. Res. (1996), doi:10.1017/S096025850000297X.</text>
+</a>
+<text x="800" y="850" text-anchor="middle" font-size="13" font-weight="normal" fill="#657987">Diagrammatic; no unsupported size ranges are implied.</text>
+</svg>

@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="940" viewBox="0 0 1600 940" role="img">
+<title>Cottonseed-oil fatty-acid ranges</title>
+<desc>Observed ranges across three Gossypium hirsutum genotypes; not one universal composition.</desc>
+<defs>
+          <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+            <path d="M0,0 L10,5 L0,10 z" fill="#657987"/>
+          </marker>
+          <style>
+            text { font-family: Arial, Helvetica, sans-serif; fill: #263746; }
+            .title { font-size: 34px; font-weight: 700; }
+            .subtitle { font-size: 19px; fill: #657987; }
+            .label { font-size: 19px; }
+            .small { font-size: 15px; fill: #657987; }
+            .boxlabel { font-size: 19px; font-weight: 700; }
+          </style>
+        </defs>
+<rect width="100%" height="100%" fill="white"/>
+<text class="title" x="800.0" y="58" text-anchor="middle">Cottonseed-oil fatty-acid ranges</text>
+<text class="subtitle" x="800.0" y="91" text-anchor="middle">Observed ranges across three Gossypium hirsutum genotypes; not one universal composition.</text>
+<text x="100" y="267" text-anchor="start" font-size="20" font-weight="bold" fill="#263746">Linoleic acid (C18:2)</text>
+<line x1="520" y1="260" x2="1370" y2="260" stroke="#d5dde0" stroke-width="7"/>
+<line x1="1256.6666666666667" y1="260" x2="1310.7833333333333" y2="260" stroke="#d9bd54" stroke-width="18"/>
+<circle cx="1256.7" cy="260" r="9" fill="#d9bd54"/>
+<circle cx="1310.8" cy="260" r="9" fill="#d9bd54"/>
+<text x="1283.725" y="240" text-anchor="middle" font-size="16" font-weight="bold" fill="#263746">52.00–55.82%</text>
+<text x="100" y="397" text-anchor="start" font-size="20" font-weight="bold" fill="#263746">Palmitic acid (C16:0)</text>
+<line x1="520" y1="390" x2="1370" y2="390" stroke="#d5dde0" stroke-width="7"/>
+<line x1="872.0416666666667" y1="390" x2="883.0916666666667" y2="390" stroke="#d98948" stroke-width="18"/>
+<circle cx="872.0" cy="390" r="9" fill="#d98948"/>
+<circle cx="883.1" cy="390" r="9" fill="#d98948"/>
+<text x="877.5666666666667" y="370" text-anchor="middle" font-size="16" font-weight="bold" fill="#263746">24.85–25.63%</text>
+<text x="100" y="527" text-anchor="start" font-size="20" font-weight="bold" fill="#263746">Oleic acid (C18:1)</text>
+<line x1="520" y1="520" x2="1370" y2="520" stroke="#d5dde0" stroke-width="7"/>
+<line x1="719.1833333333334" y1="520" x2="760.8333333333333" y2="520" stroke="#579276" stroke-width="18"/>
+<circle cx="719.2" cy="520" r="9" fill="#579276"/>
+<circle cx="760.8" cy="520" r="9" fill="#579276"/>
+<text x="740.0083333333333" y="500" text-anchor="middle" font-size="16" font-weight="bold" fill="#263746">14.06–17.00%</text>
+<text x="100" y="657" text-anchor="start" font-size="20" font-weight="bold" fill="#263746">Stearic acid (C18:0)</text>
+<line x1="520" y1="650" x2="1370" y2="650" stroke="#d5dde0" stroke-width="7"/>
+<line x1="562.6416666666667" y1="650" x2="564.3416666666667" y2="650" stroke="#4b8db8" stroke-width="18"/>
+<circle cx="562.6" cy="650" r="9" fill="#4b8db8"/>
+<circle cx="564.3" cy="650" r="9" fill="#4b8db8"/>
+<text x="563.4916666666667" y="630" text-anchor="middle" font-size="16" font-weight="bold" fill="#263746">3.01–3.13%</text>
+<line x1="520.0" y1="710" x2="520.0" y2="722" stroke="#657987" stroke-width="1"/>
+<text x="520.0" y="748" text-anchor="middle" font-size="14" font-weight="normal" fill="#657987">0</text>
+<line x1="661.6666666666666" y1="710" x2="661.6666666666666" y2="722" stroke="#657987" stroke-width="1"/>
+<text x="661.6666666666666" y="748" text-anchor="middle" font-size="14" font-weight="normal" fill="#657987">10</text>
+<line x1="803.3333333333333" y1="710" x2="803.3333333333333" y2="722" stroke="#657987" stroke-width="1"/>
+<text x="803.3333333333333" y="748" text-anchor="middle" font-size="14" font-weight="normal" fill="#657987">20</text>
+<line x1="945.0" y1="710" x2="945.0" y2="722" stroke="#657987" stroke-width="1"/>
+<text x="945.0" y="748" text-anchor="middle" font-size="14" font-weight="normal" fill="#657987">30</text>
+<line x1="1086.6666666666665" y1="710" x2="1086.6666666666665" y2="722" stroke="#657987" stroke-width="1"/>
+<text x="1086.6666666666665" y="748" text-anchor="middle" font-size="14" font-weight="normal" fill="#657987">40</text>
+<line x1="1228.3333333333335" y1="710" x2="1228.3333333333335" y2="722" stroke="#657987" stroke-width="1"/>
+<text x="1228.3333333333335" y="748" text-anchor="middle" font-size="14" font-weight="normal" fill="#657987">50</text>
+<line x1="1370.0" y1="710" x2="1370.0" y2="722" stroke="#657987" stroke-width="1"/>
+<text x="1370.0" y="748" text-anchor="middle" font-size="14" font-weight="normal" fill="#657987">60</text>
+<text x="945.0" y="785" text-anchor="middle" font-size="17" font-weight="normal" fill="#263746">Fatty acid (% of total; reported range)</text>
+<text x="800" y="835" text-anchor="middle" font-size="16" font-weight="normal" fill="#657987">Minor fatty acids were present; their exact combined share is not inferred here.</text>
+<a href="https://dergipark.org.tr/en/download/article-file/2201406" target="_blank" rel="noopener noreferrer">
+<text x="800" y="900" text-anchor="middle" font-size="13" font-weight="normal" fill="#657987">Source: Physico-Chemical Characteristic and Fatty Acids Compositions of Cottonseed Oils; Cukurova 1518, PAUM 15, BA 119.</text>
+</a>
+</svg>

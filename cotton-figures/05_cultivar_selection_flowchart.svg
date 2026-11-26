@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img">
+<title>Cotton cultivar selection: evidence-first guide</title>
+<desc>Select for measured, locally relevant performance—not unsupported cultivar labels.</desc>
+<defs>
+          <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+            <path d="M0,0 L10,5 L0,10 z" fill="#657987"/>
+          </marker>
+          <style>
+            text { font-family: Arial, Helvetica, sans-serif; fill: #263746; }
+            .title { font-size: 34px; font-weight: 700; }
+            .subtitle { font-size: 19px; fill: #657987; }
+            .label { font-size: 19px; }
+            .small { font-size: 15px; fill: #657987; }
+            .boxlabel { font-size: 19px; font-weight: 700; }
+          </style>
+        </defs>
+<rect width="100%" height="100%" fill="white"/>
+<text class="title" x="800.0" y="58" text-anchor="middle">Cotton cultivar selection: evidence-first guide</text>
+<text class="subtitle" x="800.0" y="91" text-anchor="middle">Select for measured, locally relevant performance—not unsupported cultivar labels.</text>
+<rect x="535" y="145" width="530" height="90" rx="16" fill="#f5f8fa" stroke="#8ba0ac" stroke-width="2"/>
+<text x="800" y="200" text-anchor="middle" font-size="24" font-weight="bold" fill="#263746">What is the intended end use?</text>
+<line x1="800" y1="235" x2="310" y2="315" stroke="#579276" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="90" y="315" width="440" height="95" rx="14" fill="#f7fafb" stroke="#579276" stroke-width="3"/>
+<text x="310" y="372" text-anchor="middle" font-size="23" font-weight="bold" fill="#579276">FIBER</text>
+<rect x="90" y="455" width="440" height="130" rx="14" fill="white" stroke="#579276" stroke-width="2"/>
+<text x="310" y="505" text-anchor="middle" font-size="17" font-weight="normal" fill="#263746">Use local, multi-year trial data</text>
+<text x="310" y="538" text-anchor="middle" font-size="17" font-weight="normal" fill="#263746">for lint yield and fiber quality.</text>
+<rect x="125" y="630" width="370" height="110" rx="12" fill="#f4f7f8" stroke="#aab8bf" stroke-width="2"/>
+<text x="310" y="675" text-anchor="middle" font-size="17" font-weight="normal" fill="#263746">Verify with published trial or</text>
+<text x="310" y="705" text-anchor="middle" font-size="17" font-weight="normal" fill="#263746">laboratory data for that seed lot.</text>
+<line x1="310" y1="585" x2="310" y2="625" stroke="#579276" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="800" y1="235" x2="795" y2="315" stroke="#4b8db8" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="575" y="315" width="440" height="95" rx="14" fill="#f7fafb" stroke="#4b8db8" stroke-width="3"/>
+<text x="795" y="372" text-anchor="middle" font-size="23" font-weight="bold" fill="#4b8db8">OIL</text>
+<rect x="575" y="455" width="440" height="130" rx="14" fill="white" stroke="#4b8db8" stroke-width="2"/>
+<text x="795" y="505" text-anchor="middle" font-size="17" font-weight="normal" fill="#263746">Compare measured seed-oil content</text>
+<text x="795" y="538" text-anchor="middle" font-size="17" font-weight="normal" fill="#263746">from relevant regional trials.</text>
+<rect x="610" y="630" width="370" height="110" rx="12" fill="#f4f7f8" stroke="#aab8bf" stroke-width="2"/>
+<text x="795" y="675" text-anchor="middle" font-size="17" font-weight="normal" fill="#263746">Verify with published trial or</text>
+<text x="795" y="705" text-anchor="middle" font-size="17" font-weight="normal" fill="#263746">laboratory data for that seed lot.</text>
+<line x1="795" y1="585" x2="795" y2="625" stroke="#4b8db8" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="800" y1="235" x2="1280" y2="315" stroke="#d98948" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="1060" y="315" width="440" height="95" rx="14" fill="#f7fafb" stroke="#d98948" stroke-width="3"/>
+<text x="1280" y="372" text-anchor="middle" font-size="23" font-weight="bold" fill="#d98948">ANIMAL FEED</text>
+<rect x="1060" y="455" width="440" height="130" rx="14" fill="white" stroke="#d98948" stroke-width="2"/>
+<text x="1280" y="505" text-anchor="middle" font-size="17" font-weight="normal" fill="#263746">Check measured free-gossypol levels</text>
+<text x="1280" y="538" text-anchor="middle" font-size="17" font-weight="normal" fill="#263746">and applicable feed standards.</text>
+<rect x="1095" y="630" width="370" height="110" rx="12" fill="#f4f7f8" stroke="#aab8bf" stroke-width="2"/>
+<text x="1280" y="675" text-anchor="middle" font-size="17" font-weight="normal" fill="#263746">Verify with published trial or</text>
+<text x="1280" y="705" text-anchor="middle" font-size="17" font-weight="normal" fill="#263746">laboratory data for that seed lot.</text>
+<line x1="1280" y1="585" x2="1280" y2="625" stroke="#d98948" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="800" y="815" text-anchor="middle" font-size="18" font-weight="bold" fill="#263746">Seed-coat thickness alone does not establish oil yield, feeding safety, or cultivar suitability.</text>
+<text x="800" y="930" text-anchor="middle" font-size="13" font-weight="normal" fill="#657987">No cultivar names are assigned without a cited, region-specific performance source.</text>
+</svg>

@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img">
+<title>Gossypol gland development in cotton cotyledons</title>
+<desc>Observed sequence by days after pollination (DPA); schematic histology.</desc>
+<defs>
+          <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+            <path d="M0,0 L10,5 L0,10 z" fill="#657987"/>
+          </marker>
+          <style>
+            text { font-family: Arial, Helvetica, sans-serif; fill: #263746; }
+            .title { font-size: 34px; font-weight: 700; }
+            .subtitle { font-size: 19px; fill: #657987; }
+            .label { font-size: 19px; }
+            .small { font-size: 15px; fill: #657987; }
+            .boxlabel { font-size: 19px; font-weight: 700; }
+          </style>
+        </defs>
+<rect width="100%" height="100%" fill="white"/>
+<text class="title" x="800.0" y="58" text-anchor="middle">Gossypol gland development in cotton cotyledons</text>
+<text class="subtitle" x="800.0" y="91" text-anchor="middle">Observed sequence by days after pollination (DPA); schematic histology.</text>
+<rect x="50" y="155" width="320" height="570" rx="18" fill="#fbfcfc" stroke="#c5d0d5" stroke-width="2"/>
+<text x="210" y="205" text-anchor="middle" font-size="24" font-weight="bold" fill="#263746">22 DPA</text>
+<text x="210" y="245" text-anchor="middle" font-size="18" font-weight="bold" fill="#263746">No gland primordium</text>
+<circle cx="210" cy="420" r="95" fill="#d8e4d4" stroke="#718a72" stroke-width="4"/>
+<circle cx="170" cy="395" r="15" fill="#a9bda5" stroke="#718a72" stroke-width="2"/>
+<circle cx="210" cy="382" r="15" fill="#a9bda5" stroke="#718a72" stroke-width="2"/>
+<circle cx="250" cy="398" r="15" fill="#a9bda5" stroke="#718a72" stroke-width="2"/>
+<circle cx="178" cy="445" r="15" fill="#a9bda5" stroke="#718a72" stroke-width="2"/>
+<circle cx="222" cy="452" r="15" fill="#a9bda5" stroke="#718a72" stroke-width="2"/>
+<circle cx="255" cy="448" r="15" fill="#a9bda5" stroke="#718a72" stroke-width="2"/>
+<circle cx="210" cy="420" r="5" fill="#718a72"/>
+<text x="210" y="575" text-anchor="middle" font-size="16" font-weight="normal" fill="#263746">Cotyledon cells closely arranged</text>
+<text x="210" y="620" text-anchor="middle" font-size="14" font-weight="normal" fill="#657987">Inset: cotyledon tissue</text>
+<line x1="380" y1="420" x2="433" y2="420" stroke="#657987" stroke-width="4" marker-end="url(#arrow)"/>
+<rect x="443" y="155" width="320" height="570" rx="18" fill="#fbfcfc" stroke="#c5d0d5" stroke-width="2"/>
+<text x="603" y="205" text-anchor="middle" font-size="24" font-weight="bold" fill="#263746">25 DPA</text>
+<text x="603" y="245" text-anchor="middle" font-size="18" font-weight="bold" fill="#263746">Primordium forms</text>
+<circle cx="603" cy="420" r="95" fill="#d8e4d4" stroke="#718a72" stroke-width="4"/>
+<circle cx="647.0" cy="420.0" r="13" fill="#b68e59" stroke="#806943" stroke-width="2"/>
+<circle cx="641.1" cy="442.0" r="13" fill="#b68e59" stroke="#806943" stroke-width="2"/>
+<circle cx="625.0" cy="458.1" r="13" fill="#b68e59" stroke="#806943" stroke-width="2"/>
+<circle cx="603.0" cy="464.0" r="13" fill="#b68e59" stroke="#806943" stroke-width="2"/>
+<circle cx="581.0" cy="458.1" r="13" fill="#b68e59" stroke="#806943" stroke-width="2"/>
+<circle cx="564.9" cy="442.0" r="13" fill="#b68e59" stroke="#806943" stroke-width="2"/>
+<circle cx="559.0" cy="420.0" r="13" fill="#b68e59" stroke="#806943" stroke-width="2"/>
+<circle cx="564.9" cy="398.0" r="13" fill="#b68e59" stroke="#806943" stroke-width="2"/>
+<circle cx="581.0" cy="381.9" r="13" fill="#b68e59" stroke="#806943" stroke-width="2"/>
+<circle cx="603.0" cy="376.0" r="13" fill="#b68e59" stroke="#806943" stroke-width="2"/>
+<circle cx="625.0" cy="381.9" r="13" fill="#b68e59" stroke="#806943" stroke-width="2"/>
+<circle cx="641.1" cy="398.0" r="13" fill="#b68e59" stroke="#806943" stroke-width="2"/>
+<circle cx="603" cy="420" r="28" fill="#f3f5ef" stroke="#a7b7a3" stroke-width="2"/>
+<text x="603" y="575" text-anchor="middle" font-size="16" font-weight="normal" fill="#263746">A ring of specialized cells appears</text>
+<text x="603" y="620" text-anchor="middle" font-size="14" font-weight="normal" fill="#657987">Inset: cotyledon tissue</text>
+<line x1="773" y1="420" x2="826" y2="420" stroke="#657987" stroke-width="4" marker-end="url(#arrow)"/>
+<rect x="836" y="155" width="320" height="570" rx="18" fill="#fbfcfc" stroke="#c5d0d5" stroke-width="2"/>
+<text x="996" y="205" text-anchor="middle" font-size="24" font-weight="bold" fill="#263746">29 DPA</text>
+<text x="996" y="245" text-anchor="middle" font-size="18" font-weight="bold" fill="#263746">Primordium disintegrates</text>
+<circle cx="996" cy="420" r="95" fill="#d8e4d4" stroke="#718a72" stroke-width="4"/>
+<circle cx="996" cy="420" r="48" fill="#f5f6ef" stroke="#8c7358" stroke-width="3" stroke-dasharray="8 6"/>
+<circle cx="941" cy="410" r="11" fill="#a8865c"/>
+<circle cx="1051" cy="402" r="11" fill="#a8865c"/>
+<circle cx="996" cy="354" r="11" fill="#a8865c"/>
+<circle cx="961" cy="474" r="11" fill="#a8865c"/>
+<circle cx="1041" cy="470" r="11" fill="#a8865c"/>
+<text x="996" y="575" text-anchor="middle" font-size="16" font-weight="normal" fill="#263746">A gland cavity becomes visible</text>
+<text x="996" y="620" text-anchor="middle" font-size="14" font-weight="normal" fill="#657987">Inset: cotyledon tissue</text>
+<line x1="1166" y1="420" x2="1219" y2="420" stroke="#657987" stroke-width="4" marker-end="url(#arrow)"/>
+<rect x="1229" y="155" width="320" height="570" rx="18" fill="#fbfcfc" stroke="#c5d0d5" stroke-width="2"/>
+<text x="1389" y="205" text-anchor="middle" font-size="24" font-weight="bold" fill="#263746">35–50 DPA</text>
+<text x="1389" y="245" text-anchor="middle" font-size="18" font-weight="bold" fill="#263746">Pigment accumulates</text>
+<circle cx="1389" cy="420" r="95" fill="#d8e4d4" stroke="#718a72" stroke-width="4"/>
+<circle cx="1389" cy="420" r="55" fill="#332b27" stroke="#806943" stroke-width="12"/>
+<circle cx="1389" cy="420" r="27" fill="#4a372d"/>
+<text x="1389" y="575" text-anchor="middle" font-size="16" font-weight="normal" fill="#263746">Gossypol fills much of the cavity</text>
+<text x="1389" y="620" text-anchor="middle" font-size="14" font-weight="normal" fill="#657987">Inset: cotyledon tissue</text>
+<a href="https://doi.org/10.3390/ijms23094892" target="_blank" rel="noopener noreferrer">
+<text x="800" y="850" text-anchor="middle" font-size="13" font-weight="normal" fill="#657987">Source: Jan et al., Int. J. Mol. Sci. 23(9), 4892 (2022), doi:10.3390/ijms23094892.</text>
+</a>
+</svg>
